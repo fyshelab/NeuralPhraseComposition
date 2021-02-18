@@ -2,7 +2,7 @@
 experiment code for paper "Neural representation of words within phrases: Temporal evolution of color-adjectives and object-nouns during simple composition"
 
 ## Run decoding
- All decoding scripts are in decoding folder. *"./Decoding/converting2python"* is the python code converted from matlab scripts.
+ All decoding scripts are in decoding folder.
  To run the python code:
 install the packages from requirements.txt and run the python code:
 ```
