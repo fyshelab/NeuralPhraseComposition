@@ -31,6 +31,10 @@ optional arguments:
 
  ```
 
+## DATA
+Data can be found in this repository or [osf](https://osf.io/p7gc6/).
+
+In order to use this data you will need each subject data eg.`A0003_ASL_NR_epoch_parsed.mat` which contains the data the corresponding `labels` and `task` matrises. The mapping of coded numbers in `labels` and `task` matrix can be found in `parse_maps.mat`
 
  
  
